@@ -25,6 +25,11 @@ const data = `[{
 		"github": "https://github.com/Zenix27"
 	},
 	{
+		"name": "Mohit Agnihotri",
+		"desc": "Open Source Contributor",
+		"github": "https://github.com/haha123iit"
+	},
+	{
 		"name": "Debasis Jana",
 		"desc": "DevOps engineer",
 		"github": "https://github.com/deba19"
