@@ -19,9 +19,19 @@ const data = `[{
 		"desc": "MLH Fellow and Open-Source Contributor",
 		"github": "https://github.com/harshcasper"
 	},
-        {
+  {
 		"name": "Jigar Sable",
 		"desc": "Android Development",
 		"github": "https://github.com/jigar-sable"
+  },
+	{
+		"name": "Utkarsh Agnihotri",
+		"desc": "Competitive Coder and Web Developer",
+		"github": "https://github.com/Zenix27"
+	},
+	{
+		"name": "Debasis Jana",
+		"desc": "DevOps engineer",
+		"github": "https://github.com/deba19"
 	}
 ]`;
