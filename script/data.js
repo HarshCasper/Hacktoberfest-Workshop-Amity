@@ -18,5 +18,10 @@ const data = `[{
 		"name": "Harsh Mishra",
 		"desc": "MLH Fellow and Open-Source Contributor",
 		"github": "https://github.com/harshcasper"
+	},
+	{
+		"name": "Debasis Jana",
+		"desc": "DevOps engineer",
+		"github": "https://github.com/deba19"
 	}
 ]`;
