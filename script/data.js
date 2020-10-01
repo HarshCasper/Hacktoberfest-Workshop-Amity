@@ -19,4 +19,9 @@ const data = `[{
 		"desc": "MLH Fellow and Open-Source Contributor",
 		"github": "https://github.com/harshcasper"
 	}
+	{
+		"name": "Jayant Jain",
+		"desc": "Data Scientist and ML Engineer",
+		"github": "https://github.com/xybervenom"
+	}
 ]`;
