@@ -25,8 +25,8 @@ const data = `[{
 		"github": "https://github.com/Zenix27"
 	},
 	{
-		"name": "Debasis Jana",
-		"desc": "DevOps engineer",
-		"github": "https://github.com/deba19"
+		"name": "Ishaan Gupta",
+		"desc": "Web Developer",
+		"github": "https://github.com/Ishaan-01"
 	}
 ]`;
