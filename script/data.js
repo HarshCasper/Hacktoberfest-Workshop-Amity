@@ -15,6 +15,11 @@ const data = `[{
 		"github": "https://github.com/harshcasper"
 	},
 	{
+		"name": "Nitish Awasthi",
+		"desc": "Open-Source Contributor",
+		"github": "https://github.com/Nitish-Awasthi"
+	},
+	{
 		"name": "Harsh Mishra",
 		"desc": "MLH Fellow and Open-Source Contributor",
 		"github": "https://github.com/harshcasper"
