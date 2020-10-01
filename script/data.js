@@ -29,4 +29,9 @@ const data = `[{
 		"desc": "DevOps engineer",
 		"github": "https://github.com/deba19"
 	}
+{
+		"name": "Abdul Shahrukh Khan",
+		"desc": "Web Development",
+		"github": "https://github.com/srk224"
+	},
 ]`;
