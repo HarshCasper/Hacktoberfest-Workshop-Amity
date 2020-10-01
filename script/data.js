@@ -29,4 +29,9 @@ const data = `[{
 		"desc": "DevOps engineer",
 		"github": "https://github.com/deba19"
 	}
+	{
+		"name" : "Avish Mehta",
+		"desc" : "Student",
+		"github": https://github.com/avishmehta68710"
+	}
 ]`;
