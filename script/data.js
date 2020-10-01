@@ -30,8 +30,9 @@ const data = `[{
 		"github": "https://github.com/deba19"
 	}
 {
-		"name": "Himank Varshneyu,
+		"name": "Himank Varshney,
 		"desc": "Noob",
 		"github": "https://github.com/VARhimank"
 	}
+
 ]`;
