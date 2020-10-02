@@ -34,4 +34,9 @@ const data = `[{
   		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
  		"github": "https://github.com/abitaaugustine"
  	}
+	{
+		"name": "Alexy P Thomas",
+		"desc": Front-end Developer and newbie in Flutter Development"
+		"github": "https://github.com/AlexyPulivelil"
+	},
 ]`;
