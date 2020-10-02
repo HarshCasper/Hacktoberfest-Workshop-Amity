@@ -30,6 +30,11 @@ const data = `[{
 		"github": "https://github.com/deba19"
 	},
 	{
+		"name": "Hrudai Koda",
+		"desc": "Blender enthusiast",
+		"github": "https://github.com/hrudaikoda"
+	},
+  {
   		"name": "Abita Ann Augustine",
   		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
  		"github": "https://github.com/abitaaugustine"
