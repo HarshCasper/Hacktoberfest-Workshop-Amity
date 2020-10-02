@@ -34,4 +34,9 @@ const data = `[{
   		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
  		"github": "https://github.com/abitaaugustine"
  	}
+         {
+  		"name": "Nayan Jain",
+  		"desc": "Web developer Developer",
+ 		"github": "https://github.com/NayanJain7"
+ 	},
 ]`;
