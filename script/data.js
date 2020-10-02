@@ -10,9 +10,9 @@
  * 	}
  */
 const data = `[{
-		"name": "Erbeus Griffin",
-		"desc": "Web Development Junkie with interests in Machine Learning",
-		"github": "https://github.com/harshcasper"
+		"name": "Prathamesh Borse",
+		"desc": "Web Developer and Fashoinate Software Developer Junkie with interests in Data Sciene",
+		"github": "https://github.com/viraldevpb"
 	},
 	{
 		"name": "Harsh Mishra",
