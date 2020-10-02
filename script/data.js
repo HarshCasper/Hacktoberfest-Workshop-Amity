@@ -36,7 +36,7 @@ const data = `[{
  	},
 	{
 		"name": "Alexy P Thomas",
-		"desc": Front-end Developer and newbie in Flutter Development"
+		"desc": Front-end Developer and newbie in Flutter Development",
 		"github": "https://github.com/AlexyPulivelil"
-	},
+	}
 ]`;
