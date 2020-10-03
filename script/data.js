@@ -37,6 +37,6 @@ const data = `[{
 	{
 		"name": "Nikhil K",
 		"desc": "Junior Software Engineer",
-	   "github": "https://github.com/nikldev0"
-   } 
+	    "github": "https://github.com/nikldev0"
+    } 
 ]`;
