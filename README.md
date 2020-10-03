@@ -1,3 +1,14 @@
+
+
+![alt text](https://www.amity.edu/images/logo.png)
+
+# Hacktoberfest-Workshop-Amity-University
+
+This is the repository to keep all necessary Code and File that are required for the Hacktoberfest Workshop conducted at Amity University, Noida 💥✨
+
+Created and Managed by:<br>
+Amity University, Noida
+=======
 # Welcome to Hacktoberfest-Workshop-Amity
 ***
 Repository to keep all necessary Code and File for the Hacktoberfest Workshop conducted at Amity University, Noida ✨
@@ -15,3 +26,4 @@ Repository to keep all necessary Code and File for the Hacktoberfest Workshop co
   
 <p align = "center"><img src = "https://media.giphy.com/media/XRnbDusSE2cBG/giphy.gif" width = 30%></p>
 <center>It was amazing !!</center>
+
