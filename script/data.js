@@ -33,5 +33,9 @@ const data = `[{
 		"name": "Rajdeep Chandra",
 		"desc": "FullStack Engineer, created teleport,razorurl & launchpad",
 		"github": "https://github.com/Rajdeepc"
-	}
+	},
+  		"name": "Abita Ann Augustine",
+  		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
+ 		"github": "https://github.com/abitaaugustine"
+ 	}
 ]`;
