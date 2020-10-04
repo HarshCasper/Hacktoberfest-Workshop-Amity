@@ -23,5 +23,20 @@ const data = `[{
 		"name": "Aarthi",
 		"desc": "Open-Source Contributor",
 		"github": "https://github.com/maarthi28"
-	}
+	},
+  {
+		"name": "Utkarsh Agnihotri",
+		"desc": "Competitive Coder and Web Developer",
+		"github": "https://github.com/Zenix27"
+	},
+	{
+		"name": "Debasis Jana",
+		"desc": "DevOps engineer",
+		"github": "https://github.com/deba19"
+	},
+	{
+  		"name": "Abita Ann Augustine",
+  		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
+ 		"github": "https://github.com/abitaaugustine"
+ 	}
 ]`;
