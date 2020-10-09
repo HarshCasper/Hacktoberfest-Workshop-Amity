@@ -33,5 +33,10 @@ const data = `[{
   		"name": "Abita Ann Augustine",
   		"desc": "Software Developer and Microsoft Azure Machine Learning Scholarship Winner",
  		"github": "https://github.com/abitaaugustine"
- 	}
+ 	},
+	{
+		"name": "Keshav Agrawal",
+		"desc": "Full stack web developer",
+		"github": "https://github.com/Keshav04042001"
+	},
 ]`;
