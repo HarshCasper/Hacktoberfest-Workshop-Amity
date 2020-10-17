@@ -36,7 +36,7 @@ const data = `[{
  	},
 	{
   		"name": "Athira Kunjumon",
-  		"desc": "Software Developer and open-source enthusiast",
+  		"desc": "Software Engineer and open-source enthusiast",
  		"github": "https://github.com/athirakvp"
  	}
 ]`;
